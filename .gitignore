@@ -1,0 +1,7 @@
+*/.Settings
+*/.Vscode
+*/.*
+
+*/Release/
+*/project Backups/
+*/Debug/

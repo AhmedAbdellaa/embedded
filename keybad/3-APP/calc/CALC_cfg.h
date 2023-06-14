@@ -1,0 +1,9 @@
+#ifndef CALC_CFG_H
+#define CALC_CFG_H
+
+#define CALC_BUTTONS_PORT DIO_PORTD
+#define CALC_BUTTON_INC DIO_PIN2
+#define CALC_BUTTON_DEC DIO_PIN3
+#define CALC_BUTTON_OK DIO_PIN4
+
+#endif
